@@ -1,4 +1,4 @@
-# 🌾 Crop Production Prediction System
+# Prediksi Produksi Tanaman Menggunkan Algoritma Random Forest Regression, XgBoots Regression, dan Decesion Tree Regression
 
 Proyek ini adalah sistem machine learning untuk memprediksi **produksi tanaman (Production)** berdasarkan data pertanian seperti luas lahan, curah hujan, pupuk, pestisida, suhu, jenis tanaman, dan musim.
 
@@ -29,7 +29,7 @@ Dataset berisi fitur:
 
 ---
 
-## ⚙️ Workflow Proyek
+##  Workflow Proyek
 
 ### 1. Data Understanding
 - Load dataset
